@@ -1,0 +1,11 @@
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Infra.Data.SqlServer\bin\Debug\netcoreapp2.1\DomainManagement.Infra.Data.SqlServer.deps.json
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Infra.Data.SqlServer\bin\Debug\netcoreapp2.1\DomainManagement.Infra.Data.SqlServer.dll
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Infra.Data.SqlServer\bin\Debug\netcoreapp2.1\DomainManagement.Infra.Data.SqlServer.pdb
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Infra.Data.SqlServer\bin\Debug\netcoreapp2.1\DomainManagement.Domain.dll
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Infra.Data.SqlServer\bin\Debug\netcoreapp2.1\DomainManagement.Domain.pdb
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Infra.Data.SqlServer\obj\Debug\netcoreapp2.1\DomainManagement.Infra.Data.SqlServer.csprojResolveAssemblyReference.cache
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Infra.Data.SqlServer\obj\Debug\netcoreapp2.1\DomainManagement.Infra.Data.SqlServer.csproj.CoreCompileInputs.cache
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Infra.Data.SqlServer\obj\Debug\netcoreapp2.1\DomainManagement.Infra.Data.SqlServer.AssemblyInfoInputs.cache
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Infra.Data.SqlServer\obj\Debug\netcoreapp2.1\DomainManagement.Infra.Data.SqlServer.AssemblyInfo.cs
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Infra.Data.SqlServer\obj\Debug\netcoreapp2.1\DomainManagement.Infra.Data.SqlServer.dll
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Infra.Data.SqlServer\obj\Debug\netcoreapp2.1\DomainManagement.Infra.Data.SqlServer.pdb

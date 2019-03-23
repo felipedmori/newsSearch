@@ -1,0 +1,11 @@
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data.SqlServer\bin\Debug\netcoreapp2.1\newsSearcher.Infra.Data.SqlServer.deps.json
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data.SqlServer\bin\Debug\netcoreapp2.1\newsSearcher.Infra.Data.SqlServer.dll
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data.SqlServer\bin\Debug\netcoreapp2.1\newsSearcher.Infra.Data.SqlServer.pdb
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data.SqlServer\bin\Debug\netcoreapp2.1\newsSearcher.Domain.dll
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data.SqlServer\bin\Debug\netcoreapp2.1\newsSearcher.Domain.pdb
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data.SqlServer\obj\Debug\netcoreapp2.1\newsSearcher.Infra.Data.SqlServer.csprojResolveAssemblyReference.cache
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data.SqlServer\obj\Debug\netcoreapp2.1\newsSearcher.Infra.Data.SqlServer.csproj.CoreCompileInputs.cache
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data.SqlServer\obj\Debug\netcoreapp2.1\newsSearcher.Infra.Data.SqlServer.AssemblyInfoInputs.cache
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data.SqlServer\obj\Debug\netcoreapp2.1\newsSearcher.Infra.Data.SqlServer.AssemblyInfo.cs
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data.SqlServer\obj\Debug\netcoreapp2.1\newsSearcher.Infra.Data.SqlServer.dll
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data.SqlServer\obj\Debug\netcoreapp2.1\newsSearcher.Infra.Data.SqlServer.pdb

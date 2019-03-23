@@ -1,0 +1,11 @@
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data\bin\Release\netcoreapp2.1\newsSearcher.Infra.Data.deps.json
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data\bin\Release\netcoreapp2.1\newsSearcher.Infra.Data.dll
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data\bin\Release\netcoreapp2.1\newsSearcher.Infra.Data.pdb
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data\bin\Release\netcoreapp2.1\newsSearcher.Domain.dll
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data\bin\Release\netcoreapp2.1\newsSearcher.Domain.pdb
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data\obj\Release\netcoreapp2.1\newsSearcher.Infra.Data.csprojResolveAssemblyReference.cache
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data\obj\Release\netcoreapp2.1\newsSearcher.Infra.Data.csproj.CoreCompileInputs.cache
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data\obj\Release\netcoreapp2.1\newsSearcher.Infra.Data.AssemblyInfoInputs.cache
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data\obj\Release\netcoreapp2.1\newsSearcher.Infra.Data.AssemblyInfo.cs
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data\obj\Release\netcoreapp2.1\newsSearcher.Infra.Data.dll
+I:\Projetos\vanhack\Ameni.Siscop\newsSearcher.Infra.Data\obj\Release\netcoreapp2.1\newsSearcher.Infra.Data.pdb

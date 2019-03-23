@@ -1,0 +1,9 @@
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Domain\bin\Debug\netcoreapp2.1\DomainManagement.Domain.deps.json
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Domain\bin\Debug\netcoreapp2.1\DomainManagement.Domain.dll
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Domain\bin\Debug\netcoreapp2.1\DomainManagement.Domain.pdb
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Domain\obj\Debug\netcoreapp2.1\DomainManagement.Domain.csprojResolveAssemblyReference.cache
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Domain\obj\Debug\netcoreapp2.1\DomainManagement.Domain.csproj.CoreCompileInputs.cache
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Domain\obj\Debug\netcoreapp2.1\DomainManagement.Domain.AssemblyInfoInputs.cache
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Domain\obj\Debug\netcoreapp2.1\DomainManagement.Domain.AssemblyInfo.cs
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Domain\obj\Debug\netcoreapp2.1\DomainManagement.Domain.dll
+I:\Projetos\Ameni\Ameni.Siscop\Ameni.Siscop\DomainManagement.Domain\obj\Debug\netcoreapp2.1\DomainManagement.Domain.pdb
